@@ -1,1 +1,1 @@
-# MongoDBx_edX
+# Introduction to MongoDB using the MEAN Stack
